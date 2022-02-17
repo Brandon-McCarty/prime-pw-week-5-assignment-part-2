@@ -4,9 +4,24 @@ body {
     margin-left: 0;
     margin-right: 0;
 }
+.h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 .header {
     background-color: darkblue;
     color: silver;
     text-align: center;
+}
+
+main {
+    background-color: lightgray;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
